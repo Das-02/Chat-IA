@@ -1,0 +1,29 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Archivos de sesión de WhatsApp
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directorios de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Directorios del sistema
+.DS_Store
+Thumbs.db
+
+# Directorios de IDE
+.idea/
+.vscode/
+*.swp
+*.swo 
